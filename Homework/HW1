@@ -1,0 +1,57 @@
+ISYS 464, Section 1, Spring, 2014 (Beckman)
+Homework #1: Description
+Due: Wednesday, February 12, 2014, start of class
+ 
+Chapter 1, textbook page 44, “Problems and Exercises, #1”.
+ 
+(5 points)
+ 
+1.         For each of the following pairs of related entities, indicate whether (under typical 
+circumstances) there is a one-to-many or a many-to-many relationship.  Then, using the shorthand notation 
+introduced in the text, draw a diagram for each of the relationships.
+
+            a.         STUDENT and COURSE (students register for courses)
+            b.         BOOK and BOOK COPY (books have copies)
+            c.         COURSE and SECTION (courses have sections)
+            d.         SECTION and ROOM (sections are scheduled in rooms)
+            e.         INSTRUCTOR and COURSE
+ 
+SOLUTION:
+ 
+
+ 
+ 
+Chapter 2, textbook pages 105-106, “Problems and Exercises, #19”.
+ 
+(10 points)
+ 
+19.       Emerging Electric wishes to create a database with the following entities and attributes:
+·       Customer, with attributes Customer ID, Name, Address (Street, City, State, Zip Code), and Telephone
+·       Location, with attributes Location ID, Address (Street, City, State, Zip Code), and Type 
+(values of Business or Residential)
+·       Rate, with attributes Rate Class and RatePerKWH
+After interviews with the owners, you have come up with the following business rules:
+·       Customers can have one or more locations.
+·       Each location can have one or more rates, depending on the time of day.
+Draw an ERD for this situation and place minimum and maximum cardinalities on the diagram.  
+Note by Beckman: you do NOT have to “Also draw a data model for this situation using the tool you have 
+been told to use in your course.  State any assumptions that you have made.”
+ 
+SOLUTION:
+ 
+
+ 
+ 
+NOT FROM THE TEXTBOOK
+ 
+(5 points)
+ 
+Think of some organization that is not related to dog-walking, furniture production, or antiques.  For that
+organization, think of and print 5 entity types that would be relevant to those running that organization. 
+Then, for each of those 5 entity types, print 5 attributes that would also be relevant to those running that
+enterprise.
+ 
+SOLUTION:
+ 
+
+ 
