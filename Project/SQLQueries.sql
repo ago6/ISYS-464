@@ -69,4 +69,3 @@ GROUP BY store.storeID, store.storeCity;
 
 
 
-
