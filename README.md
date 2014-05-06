@@ -1,7 +1,9 @@
 ISYS-464
 ================
 
-![alt tag](http://www-fp.pearsonhighered.com/assets/hip/images/bigcovers/0136088392.jpg)
+Taught by Paul Beckman (Department Chair)                                                 
+![alt tag](http://cob.sfsu.edu/sites/sites.sfsu.edu.cob/files/images/faculty/paul_beckman.jpg?1340918167) 
+of ![alt tag](http://userwww.sfsu.edu/pbeckman/islogo.gif)
 
 
 MANAGING ENTERPRISE DATA                                                            
